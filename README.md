@@ -9,3 +9,5 @@ output images:
 
 
 
+
+![IMG_20240709_112230](https://github.com/Lavanyamargam/Bharath_internship_Webdevelopement_Weather_website/assets/168348809/99250be1-7698-4f7e-8104-de8b1a7ad814)
